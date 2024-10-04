@@ -1,3 +1,2 @@
 # rue-mangisa
- Project url: https://github.com/ruemangisa/rue-mangisa
-
+https://roadmap.sh/projects/single-page-cv
